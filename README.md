@@ -4,7 +4,8 @@ Languages Used:
 HTML
 CSS
 PHP
-MySQL
+MySQL.
+
 MySQL Database folder contains the .sql file mangola folder contains all the .php files
 
 This is a very basic website built to implement dynamic website.
